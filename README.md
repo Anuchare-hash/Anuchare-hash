@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anusha</h1>
+<h2 align="center">Hi 👋, I'm Anusha</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 - 💬 Ask me about **Ruby on Rails, OOPS concepts, MVC design pattern**
