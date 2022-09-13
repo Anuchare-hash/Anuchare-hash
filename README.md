@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **anushachare@gmail.com**
 
-<h3 align="left">Connect with me:<a href="www.linkedin.com/in/anusha-chare-5a0a50110">LinkedIn</a></h3>
+<h3 align="left"> Connect with me on
+  <a href="http://www.linkedin.com/in/anusha-chare-5a0a50110">LinkedIn</a></h3>
 <p align="left">
 </p>
 
